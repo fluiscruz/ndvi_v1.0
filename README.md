@@ -10,7 +10,7 @@ Para su uso deberá ejecutar la Notebook en el programa de su preferencia. El re
 ## Ejecución
 1. Ubicarse en el directorio de repositorio.
 2. Definir un directorio de trabajo, aquí se ubicarán los datos.
-3. Ubicar los datos LandSAT8 en formato *.zip, no es necesario descomprmirlos.
+3. Ubicar los datos LandSAT8 en formato *.zip en el directorio de trabajo, no es necesario descomprmirlos.
 4. Ejecutar la Notebook.
 ## Autor
 Ing. Luis Cruz
