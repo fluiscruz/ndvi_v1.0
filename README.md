@@ -7,6 +7,7 @@ Para su uso deberá ejecutar la Notebook en el programa de su preferencia. El re
 1. Clonar el repositorio (git clone https://github.com/fluiscruz/ndvi_v1.0.git)
 2. Abrir la Notebook en Visual Studio Code, Jupyter Notebook o en el programa de su elección.
 3. Ejecutar las celdas. Los comentarios indican que hace cada línea de código.
+
 Librerías utilizadas
 - *rasterio*
 - *numpy*
